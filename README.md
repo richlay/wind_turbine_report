@@ -10,4 +10,4 @@ Programs written for the report.
 - find theta
 	- 自動找從root到tip對應的pitch angle
 - thrust_J
-	- 自動找J對應的CT和CQ（J的範圍是0.5~4）(程式可能要跑一段時間)
+	- 自動找J對應的CT和CQ（J的範圍是0~4）(程式可能要跑一段時間)

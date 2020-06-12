@@ -37,7 +37,7 @@ int main()
 	//std::cout << "Enter J: ";
 	//std::cin >> J;
 	
-	J = 0.5;
+	J = 0;
 	while(J<=4){
 		r=0.004;					//r=R/(k*2)
 		for(int i=1; i<=10; i++){					//i<='k' , k is accuracy , above:r=R/(k*2) , below(3個地方):r=r+R/k

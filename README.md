@@ -1,5 +1,5 @@
 # Wind turbine report
-Final report for fluid mechanic course.
+Programs written for the report.
 
 - findaandb
 	- 輸入n跟r，找a,b

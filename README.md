@@ -1,4 +1,4 @@
-# wind_turbine_report
+# Wind turbine report
 Final report for fluid mechanic course.
 
 - findaandb
